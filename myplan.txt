@@ -4,5 +4,9 @@ Git
 CPQ Configuration
 Javascript Certification
 
+LWC Practice
+Sales Cloud
+Service Cloud
+
 Regards
 
