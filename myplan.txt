@@ -4,3 +4,5 @@ Git
 CPQ Configuration
 Javascript Certification
 
+Regards
+
